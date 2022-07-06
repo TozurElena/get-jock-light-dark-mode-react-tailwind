@@ -18,6 +18,8 @@
 - [Tailwindcss](https://tailwindcss.com/)
 - [ReactIcons](https://react-icons.github.io/react-icons)
 - [Netlify](https://www.netlify.com/)
+- [Joke API](https://github.com/15Dkatz/official_joke_api)
+- [Axios](https://axios-http.com/docs/intro) Axios is a promise-based HTTP Client for node.js and the browser. It is isomorphic (= it can run in the browser and nodejs with the same codebase). On the server-side it uses the native node.js http module, while on the client (browser) it uses XMLHttpRequests.
 
 
 
