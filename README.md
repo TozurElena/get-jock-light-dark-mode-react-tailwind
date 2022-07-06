@@ -10,14 +10,14 @@
 ## Technology used
 
 ![JS](https://img.shields.io/badge/JS-JavaScript-blue?style=for-the-badge&logo=js&logoColor=white) </br>
-<img src=" https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="100" height="60"/> 
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="100" height="60"/> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss" width="100" height="60"/>
 - Git and GitHub
 
 ### Useful links:
 - [Tailwindcss](https://tailwindcss.com/)
 - [ReactIcons](https://react-icons.github.io/react-icons)
-- [Netlify] (https://www.netlify.com/)
+- [Netlify](https://www.netlify.com/)
 
 
 
