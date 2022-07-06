@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import { ThemeProvider } from './components/ThemeContext';
 import Background from './components/Background';
-import ThemeToggle from './components/ThemeToggle';
+import Toggle from './components/ThemeToggle';
  
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -13,7 +13,7 @@ root.render(
     <ThemeProvider>
       <Background>
         <div className='absolut right-0 top-0 mr-4 mt-4 md:mr-6 md:mt-6'>
-          <ThemeToggle/>
+          <Toggle/>
         </div>
 
         <App />
